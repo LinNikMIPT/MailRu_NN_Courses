@@ -1,6 +1,6 @@
 # TechnoTreck_NN_Course
 
-Видеолекции: (YouTube)[https://www.youtube.com/watch?v=Am82yvUSwRE&list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP&index=1]
+Видеолекции: [YouTube](https://www.youtube.com/watch?v=Am82yvUSwRE&list=PLrCZzMib1e9oOGNLh6_d65HyfdqlJwTQP&index=1)
 
 
 Программы зачетов:
