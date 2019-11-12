@@ -5,3 +5,5 @@
 Программы зачетов:
 1. [Первый модуль](https://drive.google.com/open?id=1SsYE1lKZOpAhNzi_G8R3FoMh_wxjyzWYajj2_WA9qcc)
 2. [Второй модуль](https://drive.google.com/open?id=1_X6B_9KXeurrUpq4nUC3elQjbThzg3YOoTiVLICZ0Zw)
+3. [Третий модуль](https://drive.google.com/open?id=196KRrS_dXCoS7IafK84W0-irvMQF5DEEyXFvWZJq5xI)
+4. [Четвертый модуль](https://drive.google.com/open?id=1g5rP1O3xaPnVGcVxgQkRn5NGVPaQt8KySB2eM_bKtB4)
